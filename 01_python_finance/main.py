@@ -1,1 +1,2 @@
-print("Financial AI Lab \n Day 1")
+print("Hello World!")
+print("This is a Python finance application.")
