@@ -1,0 +1,25 @@
+{
+  "code": "000001.SZ",
+  "daily_kline": [
+    {
+      "close": 10.32,
+      "date": "2024-01-02",
+      "open": 10.25,
+      "volume": 1234567
+    },
+    {
+      "close": 10.45,
+      "date": "2024-01-03",
+      "open": 10.32,
+      "volume": 1456789
+    }
+  ],
+  "indicator": {
+    "pb": 0.51,
+    "pe": 5.23,
+    "roe": 10.2
+  },
+  "industry": "银行",
+  "is_st": false,
+  "name": "平安银行"
+}
