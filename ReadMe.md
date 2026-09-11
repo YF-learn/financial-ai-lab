@@ -1,3 +1,3 @@
 # Financial AI Lab
 
-This is a recors of learning AI for finance.
+This is a record of learning AI for finance.
